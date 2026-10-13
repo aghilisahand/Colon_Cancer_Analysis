@@ -1,0 +1,10 @@
+# Data preparation
+pandas==2.3.3
+
+# Interactive notebooks and widgets
+ipykernel==7.4.0
+ipython==9.17.1
+ipywidgets==8.1.9
+
+# Interactive visualizations
+plotly==7.1.0
